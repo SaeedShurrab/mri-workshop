@@ -1,0 +1,725 @@
+subject,tmta_raw,tmtb_raw,class_a,class_b
+HCA6002236,24.96,46.02,perfectly normal,perfectly normal
+HCA6010538,30.14,40.54,normal,perfectly normal
+HCA6018857,28.11,75.97,normal,normal
+HCA6030645,15.32,65.93,perfectly normal,perfectly normal
+HCA6047359,32.47,63.53,normal,perfectly normal
+HCA6051047,31.05,51.51,normal,perfectly normal
+HCA6053758,30.73,123.62,normal,moderate/severe
+HCA6054457,22.33,60.43,perfectly normal,perfectly normal
+HCA6058970,30.35,90.3,normal,mild/moderate
+HCA6061757,50.21,107.88,mild/moderate,mild/moderate
+HCA6062456,42.84,86.86,mild/moderate,mild/moderate
+HCA6075263,28.35,51.58,normal,perfectly normal
+HCA6086369,34.36,75.74,normal,normal
+HCA6086470,33.5,59.83,normal,perfectly normal
+HCA6086975,58.01,76.94,moderate/severe,normal
+HCA6089375,50.32,234.74,mild/moderate,moderate/severe
+HCA6091766,25.9,100.79,perfectly normal,mild/moderate
+HCA6095572,25.72,53.61,perfectly normal,perfectly normal
+HCA6098073,30.9,41.93,normal,perfectly normal
+HCA6102038,23.96,66.77,perfectly normal,normal
+HCA6108050,44.57,60.8,mild/moderate,perfectly normal
+HCA6108151,19.4,58.8,perfectly normal,perfectly normal
+HCA6109658,42.94,179.36,mild/moderate,moderate/severe
+HCA6110138,28.11,122.83,normal,moderate/severe
+HCA6111241,18.46,44.1,perfectly normal,perfectly normal
+HCA6117051,25.41,56.97,perfectly normal,perfectly normal
+HCA6119257,26.47,48.29,perfectly normal,perfectly normal
+HCA6120646,37.7,134.13,normal,moderate/severe
+HCA6125050,19.17,32.04,perfectly normal,perfectly normal
+HCA6130548,15.59,31.05,perfectly normal,perfectly normal
+HCA6131449,43.52,288.54,mild/moderate,moderate/severe
+HCA6139970,20.4,42.66,perfectly normal,perfectly normal
+HCA6143557,45.32,139.83,mild/moderate,moderate/severe
+HCA6144357,132.56,1158.75,moderate/severe,moderate/severe
+HCA6144862,28.24,72.85,normal,normal
+HCA6162662,45.78,115.68,mild/moderate,mild/moderate
+HCA6165971,32.72,54.18,normal,perfectly normal
+HCA6166973,26.75,93.25,perfectly normal,mild/moderate
+HCA6176471,34.75,106.88,normal,mild/moderate
+HCA6183064,17.64,44.74,perfectly normal,perfectly normal
+HCA6197580,27.32,55.3,normal,perfectly normal
+HCA6198582,16.37,31.28,perfectly normal,perfectly normal
+HCA6214958,27.21,51.63,normal,perfectly normal
+HCA6223050,20.37,98.57,perfectly normal,mild/moderate
+HCA6234964,36.99,132.65,normal,moderate/severe
+HCA6242054,57.84,202.46,moderate/severe,moderate/severe
+HCA6249977,23.75,62.58,perfectly normal,perfectly normal
+HCA6253867,28.18,43.42,normal,perfectly normal
+HCA6269377,58.46,89.0,moderate/severe,mild/moderate
+HCA6276475,15.98,42.83,perfectly normal,perfectly normal
+HCA6280668,38.7,93.37,normal,mild/moderate
+HCA6283371,18.26,35.08,perfectly normal,perfectly normal
+HCA6285274,18.5,48.53,perfectly normal,perfectly normal
+HCA6287177,29.21,81.66,normal,normal
+HCA6290368,20.67,47.01,perfectly normal,perfectly normal
+HCA6291976,27.25,74.14,normal,normal
+HCA6295782,30.79,134.63,normal,moderate/severe
+HCA6301751,24.54,70.01,perfectly normal,normal
+HCA6302349,49.15,78.02,mild/moderate,normal
+HCA6307056,24.4,45.5,perfectly normal,perfectly normal
+HCA6312352,21.55,42.31,perfectly normal,perfectly normal
+HCA6317665,16.23,41.54,perfectly normal,perfectly normal
+HCA6318465,32.0,55.06,normal,perfectly normal
+HCA6320048,15.39,34.9,perfectly normal,perfectly normal
+HCA6326767,28.78,82.47,normal,normal
+HCA6333158,34.68,88.29,normal,mild/moderate
+HCA6337974,12.58,40.51,perfectly normal,perfectly normal
+HCA6363167,28.06,73.75,normal,normal
+HCA6372875,15.78,41.09,perfectly normal,perfectly normal
+HCA6374576,28.28,44.3,normal,perfectly normal
+HCA6375275,24.07,54.57,perfectly normal,perfectly normal
+HCA6388082,54.71,164.14,moderate/severe,moderate/severe
+HCA6400450,20.88,49.6,perfectly normal,perfectly normal
+HCA6405157,27.33,46.01,normal,perfectly normal
+HCA6409165,33.26,67.58,normal,normal
+HCA6421963,18.1,40.38,perfectly normal,perfectly normal
+HCA6427066,33.31,90.51,normal,mild/moderate
+HCA6429272,32.39,50.24,normal,perfectly normal
+HCA6436774,17.13,20.34,perfectly normal,perfectly normal
+HCA6439780,15.71,80.44,perfectly normal,normal
+HCA6451366,59.03,107.7,moderate/severe,mild/moderate
+HCA6459584,34.47,64.69,normal,perfectly normal
+HCA6461066,16.05,28.9,perfectly normal,perfectly normal
+HCA6464678,20.67,36.58,perfectly normal,perfectly normal
+HCA6465175,63.49,82.6,moderate/severe,normal
+HCA6467179,17.89,57.54,perfectly normal,perfectly normal
+HCA6470673,44.37,163.25,mild/moderate,moderate/severe
+HCA6471675,26.38,75.62,perfectly normal,normal
+HCA6474782,46.18,185.93,mild/moderate,moderate/severe
+HCA6475986,41.97,82.73,mild/moderate,normal
+HCA6476584,36.81,95.2,normal,mild/moderate
+HCA6498190,26.45,45.17,perfectly normal,perfectly normal
+HCA6515366,31.67,71.47,normal,normal
+HCA6521664,36.15,135.19,normal,moderate/severe
+HCA6529680,29.05,69.46,normal,normal
+HCA6531667,21.62,87.19,perfectly normal,mild/moderate
+HCA6532972,40.63,120.73,mild/moderate,mild/moderate
+HCA6539885,21.17,59.1,perfectly normal,perfectly normal
+HCA6542470,24.22,39.61,perfectly normal,perfectly normal
+HCA6552069,20.32,43.51,perfectly normal,perfectly normal
+HCA6559184,26.28,50.79,perfectly normal,perfectly normal
+HCA6559487,22.8,53.39,perfectly normal,perfectly normal
+HCA6562577,28.5,77.53,normal,normal
+HCA6566888,41.75,210.56,mild/moderate,moderate/severe
+HCA6570677,26.85,86.92,perfectly normal,mild/moderate
+HCA6574685,30.55,93.27,normal,mild/moderate
+HCA6576487,31.44,66.4,normal,normal
+HCA6576689,31.92,153.35,normal,moderate/severe
+HCA6582684,51.35,148.66,mild/moderate,moderate/severe
+HCA6583484,59.75,173.2,moderate/severe,moderate/severe
+HCA6585084,15.37,46.2,perfectly normal,perfectly normal
+HCA6589294,28.24,56.95,normal,perfectly normal
+HCA6595188,28.6,82.91,normal,normal
+HCA6595794,43.24,144.5,mild/moderate,moderate/severe
+HCA6597293,24.31,50.44,perfectly normal,perfectly normal
+HCA6599803,51.22,88.79,mild/moderate,mild/moderate
+HCA6604264,21.22,46.53,perfectly normal,perfectly normal
+HCA6606571,32.11,63.99,normal,perfectly normal
+HCA6618679,21.78,88.42,perfectly normal,mild/moderate
+HCA6623874,38.7,67.6,normal,normal
+HCA6626779,16.39,48.21,perfectly normal,perfectly normal
+HCA6627377,20.64,65.05,perfectly normal,perfectly normal
+HCA6631671,19.6,57.5,perfectly normal,perfectly normal
+HCA6633069,22.94,40.46,perfectly normal,perfectly normal
+HCA6635679,39.05,105.44,normal,mild/moderate
+HCA6640672,34.21,88.64,normal,mild/moderate
+HCA6645985,34.38,61.77,normal,perfectly normal
+HCA6649993,24.88,74.93,perfectly normal,normal
+HCA6653277,25.58,73.11,perfectly normal,normal
+HCA6658994,36.13,68.77,normal,normal
+HCA6660880,22.51,114.19,perfectly normal,mild/moderate
+HCA6668391,18.98,34.49,perfectly normal,perfectly normal
+HCA6670479,20.08,38.11,perfectly normal,perfectly normal
+HCA6671178,36.23,61.07,normal,perfectly normal
+HCA6671380,39.78,106.95,normal,mild/moderate
+HCA6674588,22.17,89.52,perfectly normal,mild/moderate
+HCA6678495,23.44,74.56,perfectly normal,normal
+HCA6680987,25.44,55.26,perfectly normal,perfectly normal
+HCA6682688,48.67,133.84,mild/moderate,moderate/severe
+HCA6685492,34.08,185.21,normal,moderate/severe
+HCA6686191,78.45,224.8,moderate/severe,moderate/severe
+HCA6691992,31.39,58.42,normal,perfectly normal
+HCA6700664,20.21,71.68,perfectly normal,normal
+HCA6706373,20.44,39.0,perfectly normal,perfectly normal
+HCA6725377,20.55,78.16,perfectly normal,normal
+HCA6731574,29.3,118.07,normal,mild/moderate
+HCA6732374,17.52,43.81,perfectly normal,perfectly normal
+HCA6741173,30.376125,62.26,normal,perfectly normal
+HCA6742377,27.2,48.55,normal,perfectly normal
+HCA6746284,37.97,93.61,normal,mild/moderate
+HCA6749088,46.1,60.56,mild/moderate,perfectly normal
+HCA6750477,17.95,43.96,perfectly normal,perfectly normal
+HCA6752784,25.9,56.06,perfectly normal,perfectly normal
+HCA6753079,28.28,98.22,normal,mild/moderate
+HCA6756287,34.4,70.28,normal,normal
+HCA6757390,32.37,49.16,normal,perfectly normal
+HCA6763486,17.29,60.51,perfectly normal,perfectly normal
+HCA6766290,50.76,99.39,mild/moderate,mild/moderate
+HCA6771081,36.7,100.3,normal,mild/moderate
+HCA6773691,38.85,69.51,normal,normal
+HCA6776798,43.78,134.91,mild/moderate,moderate/severe
+HCA6780082,25.25,38.47,perfectly normal,perfectly normal
+HCA6785193,32.05,75.83,normal,normal
+HCA6787399,19.55,39.8,perfectly normal,perfectly normal
+HCA6788199,28.0,103.97,normal,mild/moderate
+HCA6791794,35.31,54.39,normal,perfectly normal
+HCA6792190,27.16,65.57,normal,perfectly normal
+HCA6818889,22.7,46.21,perfectly normal,perfectly normal
+HCA6819689,27.67,63.67,normal,perfectly normal
+HCA6820674,22.18,25.77,perfectly normal,perfectly normal
+HCA6848090,22.83,44.15,perfectly normal,perfectly normal
+HCA6854590,28.52,85.29,normal,normal
+HCA6867296,29.46,49.04,normal,perfectly normal
+HCA6875801,18.72,42.82,perfectly normal,perfectly normal
+HCA6876095,58.99,61.51,moderate/severe,perfectly normal
+HCA6877300,24.22,69.04,perfectly normal,normal
+HCA6879607,28.41,39.34,normal,perfectly normal
+HCA6880490,38.9,148.9,normal,moderate/severe
+HCA6896607,23.78,61.41,perfectly normal,perfectly normal
+HCA6909084,38.95,128.96,normal,moderate/severe
+HCA6909286,25.68,71.95,perfectly normal,normal
+HCA6910372,23.0,68.76,perfectly normal,normal
+HCA6924080,18.74,89.14,perfectly normal,mild/moderate
+HCA6937998,26.62,57.85,perfectly normal,perfectly normal
+HCA6943690,14.77,20.94,perfectly normal,perfectly normal
+HCA6946191,33.67,125.04,normal,moderate/severe
+HCA6947294,17.72,34.06,perfectly normal,perfectly normal
+HCA6950586,39.1,71.22,normal,normal
+HCA6951487,34.3,107.4,normal,mild/moderate
+HCA6954998,26.28,27.59,perfectly normal,perfectly normal
+HCA6963696,29.97,106.53,normal,mild/moderate
+HCA6967199,26.81,36.91,perfectly normal,perfectly normal
+HCA6972899,49.19,115.25,mild/moderate,mild/moderate
+HCA6987206,29.11,77.62,normal,normal
+HCA6989715,17.27,39.67,perfectly normal,perfectly normal
+HCA7000843,29.19,57.74,normal,perfectly normal
+HCA7011040,17.85,49.46,perfectly normal,perfectly normal
+HCA7017759,33.22,90.82,normal,mild/moderate
+HCA7017961,23.36,50.96,perfectly normal,perfectly normal
+HCA7024655,17.23,45.98,perfectly normal,perfectly normal
+HCA7025253,23.13,57.5,perfectly normal,perfectly normal
+HCA7027863,31.54,98.81,normal,mild/moderate
+HCA7030549,34.47,120.69,normal,mild/moderate
+HCA7046968,43.06,61.5,mild/moderate,perfectly normal
+HCA7050151,31.09,52.26,normal,perfectly normal
+HCA7056264,17.35,28.05,perfectly normal,perfectly normal
+HCA7066873,32.4,80.97,normal,normal
+HCA7075369,29.35,54.71,normal,perfectly normal
+HCA7078981,20.66,121.35,perfectly normal,moderate/severe
+HCA7079074,22.8,44.7,perfectly normal,perfectly normal
+HCA7083065,38.66,96.22,normal,mild/moderate
+HCA7091771,61.15,111.91,moderate/severe,mild/moderate
+HCA7098684,27.0,61.56,normal,perfectly normal
+HCA7101546,26.65,111.47,perfectly normal,mild/moderate
+HCA7103651,34.54,68.08,normal,normal
+HCA7108358,32.3,158.9,normal,moderate/severe
+HCA7111650,30.376125,197.39,normal,moderate/severe
+HCA7119969,40.2,266.34,mild/moderate,moderate/severe
+HCA7124659,61.9,74.02,moderate/severe,normal
+HCA7126663,42.45,77.31,mild/moderate,normal
+HCA7130957,15.87,73.81,perfectly normal,normal
+HCA7131454,19.5,43.05,perfectly normal,perfectly normal
+HCA7133054,55.53,149.83,moderate/severe,moderate/severe
+HCA7134056,18.87,38.27,perfectly normal,perfectly normal
+HCA7137567,19.99,36.23,perfectly normal,perfectly normal
+HCA7155973,26.93,48.07,perfectly normal,perfectly normal
+HCA7164267,22.91,63.68,perfectly normal,perfectly normal
+HCA7175272,22.25,57.85,perfectly normal,perfectly normal
+HCA7181873,16.9,28.06,perfectly normal,perfectly normal
+HCA7182067,25.62,79.28,perfectly normal,normal
+HCA7184576,30.49,47.98,normal,perfectly normal
+HCA7186883,25.89,51.75,perfectly normal,perfectly normal
+HCA7192777,17.25,66.59,perfectly normal,normal
+HCA7195884,18.23,72.32,perfectly normal,normal
+HCA7216462,38.6,152.69,normal,moderate/severe
+HCA7222154,32.15,57.61,normal,perfectly normal
+HCA7222457,38.92,58.94,normal,perfectly normal
+HCA7222558,25.69,41.84,perfectly normal,perfectly normal
+HCA7226566,15.14,26.96,perfectly normal,perfectly normal
+HCA7243263,30.56,47.94,normal,perfectly normal
+HCA7245267,35.01,130.67,normal,moderate/severe
+HCA7247574,17.23,45.43,perfectly normal,perfectly normal
+HCA7251969,36.1,72.85,normal,normal
+HCA7253064,26.37,54.19,perfectly normal,perfectly normal
+HCA7256070,16.94,36.46,perfectly normal,perfectly normal
+HCA7256575,41.63,89.18,mild/moderate,mild/moderate
+HCA7257173,27.77,47.24,normal,perfectly normal
+HCA7257678,34.75,111.59,normal,mild/moderate
+HCA7259480,56.52,116.6,moderate/severe,mild/moderate
+HCA7260869,25.06,58.66,perfectly normal,perfectly normal
+HCA7264069,18.62,38.39,perfectly normal,perfectly normal
+HCA7264574,39.9,149.69,normal,moderate/severe
+HCA7268178,18.55,63.02,perfectly normal,perfectly normal
+HCA7271369,44.28,116.57,mild/moderate,mild/moderate
+HCA7281271,26.23,65.53,perfectly normal,perfectly normal
+HCA7291981,31.78,82.82,normal,normal
+HCA7296183,26.6,117.72,perfectly normal,mild/moderate
+HCA7301251,23.84,52.95,perfectly normal,perfectly normal
+HCA7307768,58.5,106.53,moderate/severe,mild/moderate
+HCA7317367,30.66,88.24,normal,mild/moderate
+HCA7319472,22.81,52.22,perfectly normal,perfectly normal
+HCA7326166,20.81,36.76,perfectly normal,perfectly normal
+HCA7329374,43.74,164.2,mild/moderate,moderate/severe
+HCA7348277,29.36,159.11,normal,moderate/severe
+HCA7351165,23.3,31.66,perfectly normal,perfectly normal
+HCA7355173,38.52,89.3,normal,mild/moderate
+HCA7372476,19.57,56.27,perfectly normal,perfectly normal
+HCA7376686,38.75,76.03,normal,normal
+HCA7378993,23.58,39.49,perfectly normal,perfectly normal
+HCA7385889,32.01,127.64,normal,moderate/severe
+HCA7388794,15.67,29.88,perfectly normal,perfectly normal
+HCA7397391,14.95,37.04,perfectly normal,perfectly normal
+HCA7406265,46.31,88.84,mild/moderate,mild/moderate
+HCA7410559,25.3,78.72,perfectly normal,normal
+HCA7415973,54.34,96.28,moderate/severe,mild/moderate
+HCA7434775,25.1,58.1,perfectly normal,perfectly normal
+HCA7438480,39.04,79.58,normal,normal
+HCA7440164,25.19,57.97,perfectly normal,perfectly normal
+HCA7447784,16.99,44.48,perfectly normal,perfectly normal
+HCA7452272,23.81,48.31,perfectly normal,perfectly normal
+HCA7452575,36.76,96.0,normal,mild/moderate
+HCA7453375,21.55,114.05,perfectly normal,mild/moderate
+HCA7453981,17.04,35.8,perfectly normal,perfectly normal
+HCA7467588,19.12,41.8,perfectly normal,perfectly normal
+HCA7468388,17.23,88.2,perfectly normal,mild/moderate
+HCA7483182,27.56,125.22,normal,moderate/severe
+HCA7489497,27.9,63.0,normal,perfectly normal
+HCA7492486,61.55,141.52,moderate/severe,moderate/severe
+HCA7492688,18.57,43.29,perfectly normal,perfectly normal
+HCA7492991,36.18,56.61,normal,perfectly normal
+HCA7495593,24.18,58.12,perfectly normal,perfectly normal
+HCA7497395,32.22,58.79,normal,perfectly normal
+HCA7502059,26.5,48.5,perfectly normal,perfectly normal
+HCA7510058,27.36,127.14,normal,moderate/severe
+HCA7512769,17.86,56.73,perfectly normal,perfectly normal
+HCA7521366,27.75,61.29,normal,perfectly normal
+HCA7530670,15.28,36.85,perfectly normal,perfectly normal
+HCA7536884,21.64,47.69,perfectly normal,perfectly normal
+HCA7541675,18.21,50.81,perfectly normal,perfectly normal
+HCA7543578,26.79,45.41,perfectly normal,perfectly normal
+HCA7544883,18.48,57.39,perfectly normal,perfectly normal
+HCA7552478,24.0,58.61,perfectly normal,perfectly normal
+HCA7553177,17.25,35.0,perfectly normal,perfectly normal
+HCA7567693,32.42,47.9,normal,perfectly normal
+HCA7577595,28.89,184.83,normal,moderate/severe
+HCA7581081,12.86,46.27,perfectly normal,perfectly normal
+HCA7592086,17.3,25.07,perfectly normal,perfectly normal
+HCA7604067,84.5,76.52166666666668,moderate/severe,normal
+HCA7605978,29.22,89.65,normal,mild/moderate
+HCA7607477,37.68,60.46,normal,perfectly normal
+HCA7611569,37.31,50.01,normal,perfectly normal
+HCA7620469,84.1,84.22,moderate/severe,normal
+HCA7625176,18.61,47.77,perfectly normal,perfectly normal
+HCA7627786,12.34,18.54,perfectly normal,perfectly normal
+HCA7636686,26.42,67.18,perfectly normal,normal
+HCA7643279,36.41,61.54,normal,perfectly normal
+HCA7651278,33.11,82.37,normal,normal
+HCA7655892,45.47,62.61,mild/moderate,perfectly normal
+HCA7664792,19.05,27.47,perfectly normal,perfectly normal
+HCA7667899,18.56,77.53,perfectly normal,normal
+HCA7670686,21.08,71.91,perfectly normal,normal
+HCA7670888,36.93,92.07,normal,mild/moderate
+HCA7670989,21.47,62.84,perfectly normal,perfectly normal
+HCA7673288,33.15,75.35,normal,normal
+HCA7686196,25.79,85.29,perfectly normal,normal
+HCA7689304,18.84,42.85,perfectly normal,perfectly normal
+HCA7690187,28.62,42.63,normal,perfectly normal
+HCA7690995,52.96,171.43,moderate/severe,moderate/severe
+HCA7698204,41.69,66.8,mild/moderate,normal
+HCA7700265,36.98,65.2,normal,perfectly normal
+HCA7701974,27.96,123.65,normal,moderate/severe
+HCA7703372,22.9,68.02,perfectly normal,normal
+HCA7705275,13.55,29.97,perfectly normal,perfectly normal
+HCA7715581,17.79,54.18,perfectly normal,perfectly normal
+HCA7716381,26.61,53.9,perfectly normal,perfectly normal
+HCA7716684,22.15,34.51,perfectly normal,perfectly normal
+HCA7717484,23.72,110.19,perfectly normal,mild/moderate
+HCA7745994,55.0,51.76,moderate/severe,perfectly normal
+HCA7764594,24.82,47.03,perfectly normal,perfectly normal
+HCA7773393,44.88,90.62,mild/moderate,mild/moderate
+HCA7777200,18.85,38.96,perfectly normal,perfectly normal
+HCA7789611,37.86,79.75,normal,normal
+HCA7799311,27.27,51.49,normal,perfectly normal
+HCA7802172,23.55,55.51,perfectly normal,perfectly normal
+HCA7807384,21.0,30.0,perfectly normal,perfectly normal
+HCA7825487,25.86,52.33,perfectly normal,perfectly normal
+HCA7840988,37.71,58.3,normal,perfectly normal
+HCA7841485,13.46,22.99,perfectly normal,perfectly normal
+HCA7879713,20.62,49.38,perfectly normal,perfectly normal
+HCA7881598,27.03,46.57,normal,perfectly normal
+HCA7884605,26.5,52.34,perfectly normal,perfectly normal
+HCA7885102,19.79,48.13,perfectly normal,perfectly normal
+HCA7888815,24.71,52.56,perfectly normal,perfectly normal
+HCA7898818,12.16,29.06,perfectly normal,perfectly normal
+HCA7907287,29.38,75.61,normal,normal
+HCA7908188,25.28,60.21,perfectly normal,perfectly normal
+HCA7910680,20.03,31.23,perfectly normal,perfectly normal
+HCA7913181,57.57,139.08,moderate/severe,moderate/severe
+HCA7917189,42.69,118.9,mild/moderate,mild/moderate
+HCA7918393,24.37,74.37,perfectly normal,normal
+HCA7919698,31.3,83.07,normal,normal
+HCA7937701,47.87,134.6,mild/moderate,moderate/severe
+HCA7941388,40.69,107.42,mild/moderate,mild/moderate
+HCA7950086,26.85,88.26,perfectly normal,mild/moderate
+HCA7956199,22.38,39.91,perfectly normal,perfectly normal
+HCA7962902,15.43,46.44,perfectly normal,perfectly normal
+HCA7963196,22.53,66.25,perfectly normal,normal
+HCA7964401,13.7,49.01,perfectly normal,perfectly normal
+HCA7974909,15.26,30.53,perfectly normal,perfectly normal
+HCA7980095,46.09,94.96,mild/moderate,mild/moderate
+HCA7982706,18.3,131.0,perfectly normal,moderate/severe
+HCA7985510,39.34,97.78,normal,mild/moderate
+HCA7987312,31.0,77.46,normal,normal
+HCA7995311,22.27,73.32,perfectly normal,normal
+HCA7996616,23.39,48.45,perfectly normal,perfectly normal
+HCA7997113,26.54,59.3,perfectly normal,perfectly normal
+HCA8000040,25.09,38.78,perfectly normal,perfectly normal
+HCA8001042,31.59,89.05,normal,mild/moderate
+HCA8033560,26.86,77.04,perfectly normal,normal
+HCA8034158,19.94,50.48,perfectly normal,perfectly normal
+HCA8038772,25.02,55.19,perfectly normal,perfectly normal
+HCA8040759,34.03,85.36,normal,normal
+HCA8058374,36.97,107.7,normal,mild/moderate
+HCA8065270,53.34,75.19,moderate/severe,normal
+HCA8065472,23.78,54.25,perfectly normal,perfectly normal
+HCA8066676,24.6,71.32,perfectly normal,normal
+HCA8072772,20.75,37.36,perfectly normal,perfectly normal
+HCA8074170,34.85,91.4,normal,mild/moderate
+HCA8089082,32.5,54.68,normal,perfectly normal
+HCA8099186,48.33,67.79,mild/moderate,normal
+HCA8101450,31.45,97.24,normal,mild/moderate
+HCA8103858,23.78,56.22,perfectly normal,perfectly normal
+HCA8121355,46.88,61.81,mild/moderate,perfectly normal
+HCA8123460,18.09,62.97,perfectly normal,perfectly normal
+HCA8126971,33.7,56.45,normal,perfectly normal
+HCA8127165,38.69,71.86,normal,normal
+HCA8132057,28.19,48.6,normal,perfectly normal
+HCA8133362,40.06,82.16,mild/moderate,normal
+HCA8134667,49.21,108.69,mild/moderate,mild/moderate
+HCA8141563,22.23,53.43,perfectly normal,perfectly normal
+HCA8142767,37.19,73.33,normal,normal
+HCA8151667,32.19,171.45,normal,moderate/severe
+HCA8154168,18.44,49.55,perfectly normal,perfectly normal
+HCA8169484,19.84,33.58,perfectly normal,perfectly normal
+HCA8174679,15.89,35.64,perfectly normal,perfectly normal
+HCA8191679,24.76,52.83,perfectly normal,perfectly normal
+HCA8192378,38.83,64.16,normal,perfectly normal
+HCA8206666,34.53,59.15,normal,perfectly normal
+HCA8209672,29.25,43.63,normal,perfectly normal
+HCA8219877,23.26,92.63,perfectly normal,mild/moderate
+HCA8232061,19.71,116.93,perfectly normal,mild/moderate
+HCA8232869,44.44,84.69,mild/moderate,normal
+HCA8239378,40.25,82.86,mild/moderate,normal
+HCA8242973,31.08,67.4,normal,normal
+HCA8244977,21.7,65.51,perfectly normal,perfectly normal
+HCA8245878,18.34,47.97,perfectly normal,perfectly normal
+HCA8247074,27.34,61.47,normal,perfectly normal
+HCA8249078,34.51,95.24,normal,mild/moderate
+HCA8251368,24.86,69.97,perfectly normal,normal
+HCA8252471,16.71,60.1,perfectly normal,perfectly normal
+HCA8253978,31.21,68.08,normal,normal
+HCA8267383,38.57,80.77,normal,normal
+HCA8271980,41.01,59.79,mild/moderate,perfectly normal
+HCA8274279,31.95,64.9,normal,perfectly normal
+HCA8280274,18.51,48.9,perfectly normal,perfectly normal
+HCA8296592,20.77,37.11,perfectly normal,perfectly normal
+HCA8301357,37.6,69.16,normal,normal
+HCA8301963,28.38,78.69,normal,normal
+HCA8306569,60.49,86.79,moderate/severe,mild/moderate
+HCA8307773,25.91,49.6,perfectly normal,perfectly normal
+HCA8321565,41.87,127.11,mild/moderate,moderate/severe
+HCA8322264,21.39,44.71,perfectly normal,perfectly normal
+HCA8324975,18.81,42.0,perfectly normal,perfectly normal
+HCA8330061,59.21,155.03,moderate/severe,moderate/severe
+HCA8335778,19.2,39.03,perfectly normal,perfectly normal
+HCA8341268,18.0,64.31,perfectly normal,perfectly normal
+HCA8345882,62.56,85.75,moderate/severe,normal
+HCA8350976,13.95,29.55,perfectly normal,perfectly normal
+HCA8351574,22.03,57.06,perfectly normal,perfectly normal
+HCA8358285,22.8,36.52,perfectly normal,perfectly normal
+HCA8358689,33.83,65.79,normal,perfectly normal
+HCA8361577,32.57,46.71,normal,perfectly normal
+HCA8363278,30.45,47.42,normal,perfectly normal
+HCA8368490,21.69,41.0,perfectly normal,perfectly normal
+HCA8369896,16.86,25.57,perfectly normal,perfectly normal
+HCA8376287,38.69,95.93,normal,mild/moderate
+HCA8378594,20.04,44.04,perfectly normal,perfectly normal
+HCA8391586,28.21,97.42,normal,mild/moderate
+HCA8405975,17.4,82.47,perfectly normal,normal
+HCA8421569,20.25,38.91,perfectly normal,perfectly normal
+HCA8434376,25.52,62.99,perfectly normal,perfectly normal
+HCA8435176,38.02,45.36,normal,perfectly normal
+HCA8435277,20.32,37.85,perfectly normal,perfectly normal
+HCA8441777,21.43,134.43,perfectly normal,moderate/severe
+HCA8446383,19.14,41.1,perfectly normal,perfectly normal
+HCA8449490,48.47,317.71,mild/moderate,moderate/severe
+HCA8451275,25.3,37.01,perfectly normal,perfectly normal
+HCA8456386,24.18,52.86,perfectly normal,perfectly normal
+HCA8456790,26.91,83.53,perfectly normal,normal
+HCA8463787,15.28,25.99,perfectly normal,perfectly normal
+HCA8465387,26.14,74.25,perfectly normal,normal
+HCA8476190,34.35,89.13,normal,mild/moderate
+HCA8480282,30.04,90.07,normal,mild/moderate
+HCA8481789,17.5,57.08,perfectly normal,perfectly normal
+HCA8488197,25.6,65.0,perfectly normal,perfectly normal
+HCA8491893,63.07,76.52166666666668,moderate/severe,normal
+HCA8494899,34.88,77.13,normal,normal
+HCA8502165,16.85,52.6,perfectly normal,perfectly normal
+HCA8502872,53.22,84.02,moderate/severe,normal
+HCA8503167,27.75,91.94,normal,mild/moderate
+HCA8509785,25.44,36.08,perfectly normal,perfectly normal
+HCA8511671,20.94,41.03,perfectly normal,perfectly normal
+HCA8514374,20.15,58.69,perfectly normal,perfectly normal
+HCA8515578,39.57,70.81,normal,normal
+HCA8517582,28.37,44.99,normal,perfectly normal
+HCA8529892,31.12,62.82,normal,perfectly normal
+HCA8532174,31.41,56.08,normal,perfectly normal
+HCA8536081,48.05,70.44,mild/moderate,normal
+HCA8537992,24.63,51.08,perfectly normal,perfectly normal
+HCA8553485,19.25,55.79,perfectly normal,perfectly normal
+HCA8557796,36.15,85.21,normal,normal
+HCA8578704,42.15,68.34,mild/moderate,normal
+HCA8580387,17.72,53.56,perfectly normal,perfectly normal
+HCA8580690,21.0,75.37,perfectly normal,normal
+HCA8587705,32.69,73.86,normal,normal
+HCA8591796,41.26,90.26,mild/moderate,mild/moderate
+HCA8596099,19.54,35.46,perfectly normal,perfectly normal
+HCA8596403,30.81,56.66,normal,perfectly normal
+HCA8597405,31.53,93.2,normal,mild/moderate
+HCA8597708,17.42,80.07,perfectly normal,normal
+HCA8605680,52.25,174.67,moderate/severe,moderate/severe
+HCA8620979,31.24,70.59,normal,normal
+HCA8623581,26.17,102.43,perfectly normal,mild/moderate
+HCA8626082,23.52,142.19,perfectly normal,moderate/severe
+HCA8657295,21.44,59.88,perfectly normal,perfectly normal
+HCA8657598,21.76,67.63,perfectly normal,normal
+HCA8672190,19.32,62.37,perfectly normal,perfectly normal
+HCA8674902,25.22,51.85,perfectly normal,perfectly normal
+HCA8697005,25.31,55.02,perfectly normal,perfectly normal
+HCA8699817,25.27,74.83,perfectly normal,normal
+HCA8702577,15.11,36.03,perfectly normal,perfectly normal
+HCA8705381,31.61,76.87,normal,normal
+HCA8711477,42.75,75.52,mild/moderate,normal
+HCA8712883,23.39,42.66,perfectly normal,perfectly normal
+HCA8720983,28.04,77.54,normal,normal
+HCA8724991,35.96,53.83,normal,perfectly normal
+HCA8738699,33.75,44.89,normal,perfectly normal
+HCA8740989,14.69,32.09,perfectly normal,perfectly normal
+HCA8743187,19.04,45.34,perfectly normal,perfectly normal
+HCA8748197,17.83,51.87,perfectly normal,perfectly normal
+HCA8748298,33.21,68.01,normal,normal
+HCA8749907,23.12,52.66,perfectly normal,perfectly normal
+HCA8751792,13.08,35.83,perfectly normal,perfectly normal
+HCA8793607,41.08,136.35,mild/moderate,moderate/severe
+HCA8794407,20.57,49.37,perfectly normal,perfectly normal
+HCA8794912,23.3,39.59,perfectly normal,perfectly normal
+HCA8795813,29.3,48.53,normal,perfectly normal
+HCA8796916,22.25,60.55,perfectly normal,perfectly normal
+HCA8797211,25.1,51.37,perfectly normal,perfectly normal
+HCA8800274,18.99,85.51,perfectly normal,normal
+HCA8825997,45.0,48.49,mild/moderate,perfectly normal
+HCA8826090,35.67,104.5,normal,mild/moderate
+HCA8829905,28.83,100.76,normal,mild/moderate
+HCA8846400,40.2,98.53,mild/moderate,mild/moderate
+HCA8854398,33.81,58.17,normal,perfectly normal
+HCA8858710,45.77,318.3,mild/moderate,moderate/severe
+HCA8858912,22.58,54.6,perfectly normal,perfectly normal
+HCA8866406,23.49,64.43,perfectly normal,perfectly normal
+HCA8867004,52.17,131.91,moderate/severe,moderate/severe
+HCA8867610,37.87,90.57,normal,mild/moderate
+HCA8868915,29.98,34.39,normal,perfectly normal
+HCA8869513,38.3,86.05,normal,mild/moderate
+HCA8873908,56.13,130.76,moderate/severe,moderate/severe
+HCA8883911,29.18,71.68,normal,normal
+HCA8904185,50.57,141.95,mild/moderate,moderate/severe
+HCA8913388,22.05,41.54,perfectly normal,perfectly normal
+HCA8913489,27.12,37.4,normal,perfectly normal
+HCA8923391,28.3,98.73,normal,mild/moderate
+HCA8927501,30.91,42.25,normal,perfectly normal
+HCA8934497,51.75,80.0,mild/moderate,normal
+HCA8947709,27.41,44.61,normal,perfectly normal
+HCA8953805,13.52,30.61,perfectly normal,perfectly normal
+HCA8959211,29.56,100.84,normal,mild/moderate
+HCA8961399,34.3,62.05,normal,perfectly normal
+HCA8961400,15.76,54.91,perfectly normal,perfectly normal
+HCA8980404,21.78,49.29,perfectly normal,perfectly normal
+HCA8983208,32.48,116.47,normal,mild/moderate
+HCA8985212,18.87,107.0,perfectly normal,mild/moderate
+HCA9007968,68.78,167.12,moderate/severe,moderate/severe
+HCA9022762,49.12,256.02,mild/moderate,moderate/severe
+HCA9023865,21.22,84.06,perfectly normal,normal
+HCA9033868,36.21,128.07,normal,moderate/severe
+HCA9037876,34.33,72.91,normal,normal
+HCA9043770,43.11,104.8,mild/moderate,mild/moderate
+HCA9044570,43.4,238.43,mild/moderate,moderate/severe
+HCA9058682,18.23,92.85,perfectly normal,mild/moderate
+HCA9061974,12.93,41.02,perfectly normal,perfectly normal
+HCA9067178,22.44,63.3,perfectly normal,perfectly normal
+HCA9085685,49.37,217.35,mild/moderate,moderate/severe
+HCA9086283,50.87,77.97,mild/moderate,normal
+HCA9086990,41.99,66.37,mild/moderate,normal
+HCA9088388,15.71,40.7,perfectly normal,perfectly normal
+HCA9088691,32.47,83.81,normal,normal
+HCA9090779,46.68,112.45,mild/moderate,mild/moderate
+HCA9094484,21.9,56.28,perfectly normal,perfectly normal
+HCA9095284,31.16,69.9,normal,normal
+HCA9096690,20.7,38.81,perfectly normal,perfectly normal
+HCA9099999,37.38,99.58,normal,mild/moderate
+HCA9121158,56.73,123.77,moderate/severe,moderate/severe
+HCA9124366,28.2,55.04,normal,perfectly normal
+HCA9126269,27.77,88.09,normal,mild/moderate
+HCA9156783,38.5,76.6,normal,normal
+HCA9157179,16.51,58.07,perfectly normal,perfectly normal
+HCA9160370,31.0,60.14,normal,perfectly normal
+HCA9161877,33.23,104.7,normal,mild/moderate
+HCA9166786,15.75,48.84,perfectly normal,perfectly normal
+HCA9170373,39.74,67.47,normal,normal
+HCA9170474,34.22,110.22,normal,mild/moderate
+HCA9178894,54.62,166.11,moderate/severe,moderate/severe
+HCA9179997,18.16,35.91,perfectly normal,perfectly normal
+HCA9187693,17.61,31.46,perfectly normal,perfectly normal
+HCA9194084,37.02,130.38,normal,moderate/severe
+HCA9196088,32.0,81.04,normal,normal
+HCA9198092,17.59,49.31,perfectly normal,perfectly normal
+HCA9202057,22.47,93.27,perfectly normal,mild/moderate
+HCA9202360,58.4,90.83,moderate/severe,mild/moderate
+HCA9217575,20.25,48.8,perfectly normal,perfectly normal
+HCA9231670,59.2,100.01,moderate/severe,mild/moderate
+HCA9234979,35.01,83.23,normal,normal
+HCA9239484,22.67,76.54,perfectly normal,normal
+HCA9247483,23.07,43.76,perfectly normal,perfectly normal
+HCA9256181,23.29,53.61,perfectly normal,perfectly normal
+HCA9260071,22.0,110.06,perfectly normal,mild/moderate
+HCA9266285,72.3,270.37,moderate/severe,moderate/severe
+HCA9286392,32.45,90.24,normal,mild/moderate
+HCA9300057,38.84,173.84,normal,moderate/severe
+HCA9301564,43.58,77.14,mild/moderate,normal
+HCA9304772,28.65,49.02,normal,perfectly normal
+HCA9319280,36.05,71.5,normal,normal
+HCA9319684,25.23,53.79,perfectly normal,perfectly normal
+HCA9323978,0.31,1.21,perfectly normal,perfectly normal
+HCA9329081,43.59,93.03,mild/moderate,mild/moderate
+HCA9329687,31.13,45.38,normal,perfectly normal
+HCA9339892,19.65,47.75,perfectly normal,perfectly normal
+HCA9341879,37.93,106.11,normal,mild/moderate
+HCA9342578,36.92,100.98,normal,mild/moderate
+HCA9352783,36.24,65.31,normal,perfectly normal
+HCA9366895,15.4,34.86,perfectly normal,perfectly normal
+HCA9369902,19.0,47.29,perfectly normal,perfectly normal
+HCA9372789,21.8,62.5,perfectly normal,perfectly normal
+HCA9373589,110.73,76.52166666666668,moderate/severe,normal
+HCA9377597,18.84,50.77,perfectly normal,perfectly normal
+HCA9384089,33.43,67.05,normal,normal
+HCA9386902,35.3,57.31,normal,perfectly normal
+HCA9389605,30.376125,63.5,normal,perfectly normal
+HCA9392997,22.05,38.45,perfectly normal,perfectly normal
+HCA9407681,37.73,115.18,normal,mild/moderate
+HCA9409786,30.06,43.46,normal,perfectly normal
+HCA9414375,21.21,50.25,perfectly normal,perfectly normal
+HCA9435080,67.26,116.82,moderate/severe,mild/moderate
+HCA9436688,25.31,43.27,perfectly normal,perfectly normal
+HCA9438086,17.56,47.9,perfectly normal,perfectly normal
+HCA9443079,26.55,51.12,perfectly normal,perfectly normal
+HCA9449900,42.06,121.49,mild/moderate,moderate/severe
+HCA9452181,41.5,61.29,mild/moderate,perfectly normal
+HCA9455288,31.51,54.21,normal,perfectly normal
+HCA9460079,30.53,51.33,normal,perfectly normal
+HCA9461182,57.69,169.61,moderate/severe,moderate/severe
+HCA9464996,44.72,104.54,mild/moderate,mild/moderate
+HCA9469906,15.07,37.55,perfectly normal,perfectly normal
+HCA9478098,19.9,50.22,perfectly normal,perfectly normal
+HCA9481693,24.48,61.39,perfectly normal,perfectly normal
+HCA9481794,37.88,95.0,normal,mild/moderate
+HCA9492496,44.5,104.0,mild/moderate,mild/moderate
+HCA9496707,27.04,190.79,normal,moderate/severe
+HCA9498307,33.84,51.77,normal,perfectly normal
+HCA9503576,26.31,64.44,perfectly normal,perfectly normal
+HCA9510169,17.68,58.11,perfectly normal,perfectly normal
+HCA9512173,31.79,102.32,normal,mild/moderate
+HCA9515684,18.87,39.22,perfectly normal,perfectly normal
+HCA9521073,15.98,59.14,perfectly normal,perfectly normal
+HCA9521679,25.62,48.06,perfectly normal,perfectly normal
+HCA9539800,33.62,66.53,normal,normal
+HCA9546089,44.54,86.2,mild/moderate,mild/moderate
+HCA9546594,24.24,80.2,perfectly normal,normal
+HCA9548396,31.79,74.86,normal,normal
+HCA9549297,18.09,32.84,perfectly normal,perfectly normal
+HCA9551486,24.72,68.37,perfectly normal,normal
+HCA9551991,26.03,47.14,perfectly normal,perfectly normal
+HCA9554088,24.68,61.49,perfectly normal,perfectly normal
+HCA9556193,61.18,236.58,moderate/severe,moderate/severe
+HCA9559806,18.13,51.06,perfectly normal,perfectly normal
+HCA9572797,22.4,55.1,perfectly normal,perfectly normal
+HCA9573597,52.6,217.8,moderate/severe,moderate/severe
+HCA9575298,18.54,41.54,perfectly normal,perfectly normal
+HCA9578406,84.71,75.82,moderate/severe,normal
+HCA9589310,30.25,55.51,normal,perfectly normal
+HCA9589815,26.41,76.52166666666668,perfectly normal,normal
+HCA9594606,20.04,40.1,perfectly normal,perfectly normal
+HCA9599212,24.2,54.02,perfectly normal,perfectly normal
+HCA9601374,22.35,42.16,perfectly normal,perfectly normal
+HCA9603681,31.04,65.44,normal,perfectly normal
+HCA9614484,28.04,105.64,normal,mild/moderate
+HCA9617793,26.2,43.65,perfectly normal,perfectly normal
+HCA9620075,60.62,104.2,moderate/severe,mild/moderate
+HCA9626693,24.46,62.11,perfectly normal,perfectly normal
+HCA9628697,17.25,39.66,perfectly normal,perfectly normal
+HCA9640889,24.84,60.73,perfectly normal,perfectly normal
+HCA9641386,28.91,73.03,normal,normal
+HCA9646699,70.35,215.98,moderate/severe,moderate/severe
+HCA9650993,28.95,65.61,normal,perfectly normal
+HCA9662495,32.39,46.8,normal,perfectly normal
+HCA9677509,21.8,40.39,perfectly normal,perfectly normal
+HCA9679715,27.99,89.68,normal,mild/moderate
+HCA9686611,20.06,101.63,perfectly normal,mild/moderate
+HCA9688312,54.27,78.99,moderate/severe,normal
+HCA9703079,18.86,61.41,perfectly normal,perfectly normal
+HCA9707289,28.78,71.66,normal,normal
+HCA9708190,39.41,60.79,normal,perfectly normal
+HCA9715187,14.34,36.93,perfectly normal,perfectly normal
+HCA9716088,17.83,42.2,perfectly normal,perfectly normal
+HCA9717999,28.97,45.34,normal,perfectly normal
+HCA9734999,19.65,45.59,perfectly normal,perfectly normal
+HCA9735294,42.0,66.6,mild/moderate,normal
+HCA9739808,19.28,52.8,perfectly normal,perfectly normal
+HCA9743900,35.25,63.85,normal,perfectly normal
+HCA9744194,31.03,52.53,normal,perfectly normal
+HCA9745500,19.5,36.7,perfectly normal,perfectly normal
+HCA9750290,25.0,77.19,perfectly normal,normal
+HCA9753094,40.24,120.84,mild/moderate,mild/moderate
+HCA9760091,20.59,44.32,perfectly normal,perfectly normal
+HCA9761497,31.25,73.8,normal,normal
+HCA9761801,14.93,37.9,perfectly normal,perfectly normal
+HCA9766912,56.23,427.15,moderate/severe,moderate/severe
+HCA9769211,22.88,75.63,perfectly normal,normal
+HCA9771703,17.24,46.19,perfectly normal,perfectly normal
+HCA9787415,48.13,84.73,mild/moderate,normal
+HCA9800885,18.71,37.54,perfectly normal,perfectly normal
+HCA9815595,39.53,74.98,normal,normal
+HCA9845403,23.23,51.46,perfectly normal,perfectly normal
+HCA9865005,17.17,30.51,perfectly normal,perfectly normal
+HCA9866310,22.79,60.03,perfectly normal,perfectly normal
+HCA9868920,53.52,101.96,moderate/severe,mild/moderate
+HCA9880001,20.95,47.93,perfectly normal,perfectly normal
+HCA9880405,45.62,104.31,mild/moderate,mild/moderate
+HCA9882308,18.86,43.86,perfectly normal,perfectly normal
+HCA9894012,30.376125,44.34,normal,perfectly normal
+HCA9894315,35.84,51.53,normal,perfectly normal
+HCA9896218,26.7,55.02,perfectly normal,perfectly normal
+HCA9908906,47.76,89.92,mild/moderate,mild/moderate
+HCA9912391,31.91,63.26,normal,perfectly normal
+HCA9912492,33.33,75.67,normal,normal
+HCA9913090,30.97,71.1,normal,normal
+HCA9914193,14.57,35.09,perfectly normal,perfectly normal
+HCA9922091,16.01,32.2,perfectly normal,perfectly normal
+HCA9926201,44.61,74.72,mild/moderate,normal
+HCA9938309,50.8,109.17,mild/moderate,mild/moderate
+HCA9938814,26.87,49.03,perfectly normal,perfectly normal
+HCA9943504,45.58,93.69,mild/moderate,mild/moderate
+HCA9947411,27.82,63.6,normal,perfectly normal
+HCA9953406,31.09,40.41,normal,perfectly normal
+HCA9956008,24.78,45.12,perfectly normal,perfectly normal
+HCA9986825,48.22,83.63,mild/moderate,normal
+HCA9992517,29.64,67.31,normal,normal
